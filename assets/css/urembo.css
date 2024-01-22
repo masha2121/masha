@@ -1,0 +1,35 @@
+
+table{
+    width: 95%;
+border-collapse: collapse;
+    margin: 20px;
+     background-image: url("assets/images/car1.jpeg");
+
+
+}
+td,th{
+    border: 2px solid black;
+    padding: 10px;
+
+}
+th{
+    font-family: "Droid Sans Mono";
+    color: #0c37f8;
+    font-size: 35px;
+}
+td{
+    font-family: aakar;
+    font-size: 20px;
+
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+tr:nth-child(even){
+    background-color: #8c8888;
+    font-size: 20px;
+
+}
+
+
